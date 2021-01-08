@@ -1,6 +1,6 @@
 # azure-terraform-swarm-template
 
-This is a Docker Swarm terraform configurator for azure
+#### Docker Swarm terraform configuration on azure
 
 Main Targets:
 - highly available environment
