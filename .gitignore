@@ -1,0 +1,10 @@
+.terraform
+.terraform.tfstate.lock.info
+*.tfstate
+*.tfstate.backup
+plan.json
+stacks
+output_*.txt
+vendor
+config/secrets/*
+tmp/deployer-ssh-config.txt
