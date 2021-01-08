@@ -14,6 +14,15 @@ This repo is a terraform definition which should be a good start as it's focused
 
 Feedback is welcome, feel free to open an issue.
 
+#### Configure
+
+Configure terraform to work with your azure account
+
+#### Run
+
+    rake
+
+This will regenerate the terraform configs, trigger terraform into planning and applying the changes to configure the infrastructure defined in the `.tf` plan files.  
 
 ### Open Source
 
