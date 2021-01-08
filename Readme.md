@@ -24,6 +24,8 @@ Configure terraform to work with your azure account
 
 This will regenerate the terraform configs, trigger terraform into planning and applying the changes to configure the infrastructure defined in the `.tf` plan files.  
 
+### Check out the AWS version: https://github.com/makevoid/aws-terraform-swarm-template
+
 ### Open Source
 
 Feel free to open an issue to see if this worked for you or not, if you think you can contribute, open a pull request with your desired improvement.
